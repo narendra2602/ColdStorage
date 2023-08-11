@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//com/coldstorage/dao/ConnectionFactory.java=UTF-8
+encoding//com/coldstorage/print/GenerateGatePass.java=UTF-8
+encoding//com/coldstorage/print/GenerateInvoiceGST.java=UTF-8
+encoding//com/coldstorage/print/GenerateOutward.java=UTF-8
+encoding//com/coldstorage/print/GenerateReceipt.java=UTF-8
+encoding//com/coldstorage/print/ItemwiseSale.java=UTF-8
+encoding//com/coldstorage/print/OutStandingPdf.java=UTF-8
+encoding//com/coldstorage/print/PrtwiseSale.java=UTF-8
+encoding//com/coldstorage/print/SaleReg.java=UTF-8
+encoding//com/coldstorage/util/FigToWord.java=UTF-8
+encoding//com/coldstorage/view/InwardEntry.java=UTF-8
+encoding//com/coldstorage/view/InwardEntryOld2.java=UTF-8
+encoding//com/coldstorage/view/OutwardUpdation.java=UTF-8
+encoding/<project>=Cp1252
